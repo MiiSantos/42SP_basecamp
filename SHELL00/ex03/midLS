@@ -1,0 +1,5 @@
+ls -upm
+
+-m : lista arquivos e diretórios separados por vírgulas.
+-u : mostra tempo de acesso, os mais recentes primeiro.
+-p : adiciona barra nas pastas.

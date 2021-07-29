@@ -1,0 +1,13 @@
+Nesse exercício foi usado o path para fazer comparação de arquivos.
+
+comando
+patch a -o ./b <sw.diff
+
+patch = aplica um arquivo diff a um original
+a = arquivo que sera comparado
+-o - argumento para output 
+./b - aponta o output, que sera o arquivo b
+< = menor que, indica o b para comparacao 
+sw.diff = arquivo diff que sera comparado
+
+diff a b > sw.diff

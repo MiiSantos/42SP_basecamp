@@ -1,0 +1,11 @@
+a configuracao do arquivo sera a seguinte:
+41 string 42 42 file
+
+onde:
+41 - offset
+string - sequencia de caracteres
+42 - o que tem na sequencia
+42 file - retorno
+
+para testar
+file -m ft_magic *
